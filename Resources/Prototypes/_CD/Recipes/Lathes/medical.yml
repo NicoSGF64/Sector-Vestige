@@ -1,14 +1,25 @@
+# Begin Sector Vestige additions
+# You shouldn't be able to print crew monitors
+#- type: latheRecipe
+#  id: HandheldCrewMonitor
+#  result: HandheldCrewMonitorEmpty
+#  categories:
+#  - Tools
+#  completetime: 4
+#  materials:
+#    Glass: 600
+#    Steel: 600
+#    Plastic: 600
+#    Gold: 300
+
 - type: latheRecipe
-  id: HandheldCrewMonitor
-  result: HandheldCrewMonitorEmpty
-  categories:
-  - Tools
+  id: VehicleWheelchairFolded
+  result: VehicleWheelchairFolded
   completetime: 4
   materials:
-    Glass: 600
-    Steel: 600
-    Plastic: 600
-    Gold: 300
+    Steel: 300
+    Plastic: 500
+# End Sector Vestige additions
 
 - type: latheRecipe
   id: MedCrutchesForearm

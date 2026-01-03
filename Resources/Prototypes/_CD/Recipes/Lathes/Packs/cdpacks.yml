@@ -18,7 +18,7 @@
 - type: latheRecipePack
   id: CDMedfabStatic
   recipes:
-  - HandheldCrewMonitor
+  #- HandheldCrewMonitor # Sector Vestige - Handheld Crew Monitors shouldn't be able to be printed
   - MedCrutchesForearm
   - VehicleWheelchairFolded
 

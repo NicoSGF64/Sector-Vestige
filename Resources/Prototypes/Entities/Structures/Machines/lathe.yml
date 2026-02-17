@@ -133,7 +133,7 @@
     - ServiceStatic
     - PowerCellsStatic
     - ElectronicsStatic
-    - CDAutolatheStatic
+    - CDAutolatheStatic # Sector Vestige
   - type: EmagLatheRecipes
     emagStaticPacks:
     - SecurityAmmoStatic
@@ -255,7 +255,7 @@
     - CargoBoardsStatic
     - MedicalBoardsStatic
     - EngineeringBoardsStatic
-    - CDBoardsStatic
+    - CDBoardsStatic # Sector Vestige
     dynamicPacks:
     - EngineeringBoards
     - CargoBoards
@@ -388,7 +388,7 @@
     - SecurityPracticeStatic
     - SecurityAmmoStatic
     - SecurityWeaponsStatic
-    - CDSecfabStatic
+    - CDSecfabStatic # Sector Vestige
     dynamicPacks:
     - SalvageSecurityBoards
     - SalvageSecurityWeapons
@@ -470,7 +470,7 @@
     - MedicalClothingStatic
     - EmptyMedkitsStatic
     - SurgeryStatic
-    - CDMedfabStatic
+    - CDMedfabStatic # Sector Vestige
     dynamicPacks:
     - Chemistry
   - type: Machine
@@ -516,7 +516,7 @@
     - Scarves
     - Carpets
     - Bedsheets
-    - CDUniformPrinterStatic
+    - CDUniformPrinterStatic # Sector Vestige
   - type: EmagLatheRecipes
     emagStaticPacks:
     - ClothingCentComm
